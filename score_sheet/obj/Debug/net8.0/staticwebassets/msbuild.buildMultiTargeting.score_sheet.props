@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\score_sheet.props" />
+</Project>

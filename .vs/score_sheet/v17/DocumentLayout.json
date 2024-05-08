@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Moinuddin\\score_sheet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F96F90C9-7B13-4AC0-9142-E41C2663F7D0}|score_sheet\\score_sheet.csproj|d:\\moinuddin\\score_sheet\\score_sheet\\controllers\\scoresheetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96F90C9-7B13-4AC0-9142-E41C2663F7D0}|score_sheet\\score_sheet.csproj|solutionrelative:score_sheet\\controllers\\scoresheetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96F90C9-7B13-4AC0-9142-E41C2663F7D0}|score_sheet\\score_sheet.csproj|d:\\moinuddin\\score_sheet\\score_sheet\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96F90C9-7B13-4AC0-9142-E41C2663F7D0}|score_sheet\\score_sheet.csproj|solutionrelative:score_sheet\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96F90C9-7B13-4AC0-9142-E41C2663F7D0}|score_sheet\\score_sheet.csproj|d:\\moinuddin\\score_sheet\\score_sheet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96F90C9-7B13-4AC0-9142-E41C2663F7D0}|score_sheet\\score_sheet.csproj|solutionrelative:score_sheet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96F90C9-7B13-4AC0-9142-E41C2663F7D0}|score_sheet\\score_sheet.csproj|d:\\moinuddin\\score_sheet\\score_sheet\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96F90C9-7B13-4AC0-9142-E41C2663F7D0}|score_sheet\\score_sheet.csproj|solutionrelative:score_sheet\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96F90C9-7B13-4AC0-9142-E41C2663F7D0}|score_sheet\\score_sheet.csproj|d:\\moinuddin\\score_sheet\\score_sheet\\repository\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96F90C9-7B13-4AC0-9142-E41C2663F7D0}|score_sheet\\score_sheet.csproj|solutionrelative:score_sheet\\repository\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96F90C9-7B13-4AC0-9142-E41C2663F7D0}|score_sheet\\score_sheet.csproj|d:\\moinuddin\\score_sheet\\score_sheet\\repository\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96F90C9-7B13-4AC0-9142-E41C2663F7D0}|score_sheet\\score_sheet.csproj|solutionrelative:score_sheet\\repository\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96F90C9-7B13-4AC0-9142-E41C2663F7D0}|score_sheet\\score_sheet.csproj|d:\\moinuddin\\score_sheet\\score_sheet\\controllers\\mockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96F90C9-7B13-4AC0-9142-E41C2663F7D0}|score_sheet\\score_sheet.csproj|solutionrelative:score_sheet\\controllers\\mockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Moinuddin\\score_sheet\\score_sheet\\Program.cs",
+              "RelativeDocumentMoniker": "score_sheet\\Program.cs",
+              "ToolTip": "D:\\Moinuddin\\score_sheet\\score_sheet\\Program.cs",
+              "RelativeToolTip": "score_sheet\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:07:26.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\Moinuddin\\score_sheet\\score_sheet\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "score_sheet\\Services\\Service.cs",
+              "ToolTip": "D:\\Moinuddin\\score_sheet\\score_sheet\\Services\\Service.cs",
+              "RelativeToolTip": "score_sheet\\Services\\Service.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwFsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:03:50.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScoreSheetController.cs",
+              "DocumentMoniker": "D:\\Moinuddin\\score_sheet\\score_sheet\\Controllers\\ScoreSheetController.cs",
+              "RelativeDocumentMoniker": "score_sheet\\Controllers\\ScoreSheetController.cs",
+              "ToolTip": "D:\\Moinuddin\\score_sheet\\score_sheet\\Controllers\\ScoreSheetController.cs",
+              "RelativeToolTip": "score_sheet\\Controllers\\ScoreSheetController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:00:20.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MockController.cs",
+              "DocumentMoniker": "D:\\Moinuddin\\score_sheet\\score_sheet\\Controllers\\MockController.cs",
+              "RelativeDocumentMoniker": "score_sheet\\Controllers\\MockController.cs",
+              "ToolTip": "D:\\Moinuddin\\score_sheet\\score_sheet\\Controllers\\MockController.cs",
+              "RelativeToolTip": "score_sheet\\Controllers\\MockController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:41:28.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Iservice.cs",
+              "DocumentMoniker": "D:\\Moinuddin\\score_sheet\\score_sheet\\Services\\Iservice.cs",
+              "RelativeDocumentMoniker": "score_sheet\\Services\\Iservice.cs",
+              "ToolTip": "D:\\Moinuddin\\score_sheet\\score_sheet\\Services\\Iservice.cs",
+              "RelativeToolTip": "score_sheet\\Services\\Iservice.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:04:04.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "D:\\Moinuddin\\score_sheet\\score_sheet\\Repository\\IRepo.cs",
+              "RelativeDocumentMoniker": "score_sheet\\Repository\\IRepo.cs",
+              "ToolTip": "D:\\Moinuddin\\score_sheet\\score_sheet\\Repository\\IRepo.cs",
+              "RelativeToolTip": "score_sheet\\Repository\\IRepo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:03:36.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "D:\\Moinuddin\\score_sheet\\score_sheet\\Repository\\Repo.cs",
+              "RelativeDocumentMoniker": "score_sheet\\Repository\\Repo.cs",
+              "ToolTip": "D:\\Moinuddin\\score_sheet\\score_sheet\\Repository\\Repo.cs",
+              "RelativeToolTip": "score_sheet\\Repository\\Repo.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwCEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:03:22.972Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
