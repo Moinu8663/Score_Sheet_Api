@@ -11,7 +11,7 @@ using score_sheet.Model;
 namespace score_sheet.Migrations
 {
     [DbContext(typeof(ScoreContext))]
-    [Migration("20240508061305_first")]
+    [Migration("20240510095720_first")]
     partial class first
     {
         /// <inheritdoc />

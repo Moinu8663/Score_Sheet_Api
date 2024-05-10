@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rBzVbP8hyTucI0i3p+SbHegpra8SRfOxyIESRedWyRynShJ2b2fylcjpAy9EmGOEpf9eo073XIGCbvkIzixCrg==",
+  "dgSpecHash": "LXVnXmnYfdhqOduCKs8tMuL7xieFVtjp9gVYPJe8vCq4E8zNizZJv6ls4seLD256WgumxOLJi2GDSN8Z2GBCnQ==",
   "success": true,
   "projectFilePath": "D:\\Moinuddin\\score_sheet\\score_sheet\\score_sheet.csproj",
   "expectedPackageFiles": [
@@ -48,6 +48,8 @@
     "C:\\Users\\moinuddinali\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\moinuddinali\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\moinuddinali\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\moinuddinali\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\moinuddinali\\.nuget\\packages\\stackexchange.redis\\2.7.33\\stackexchange.redis.2.7.33.nupkg.sha512",
     "C:\\Users\\moinuddinali\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\moinuddinali\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\moinuddinali\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",

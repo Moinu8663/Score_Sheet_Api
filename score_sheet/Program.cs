@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using score_sheet.Model;
+using score_sheet.RedisCache;
 using score_sheet.Repository;
 using score_sheet.Services;
 using System.Security.Claims;
@@ -19,6 +20,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IRepo, Repo>();
 builder.Services.AddScoped<Iservice, Service>();
+builder.Services.AddScoped<IRedisCache, RedisCache>();
 builder.Services.AddScoped<ITokenGenerator, TokenGenerator>();
 builder.Services.AddDbContext<ScoreContext>(o => o.UseSqlServer(builder.Configuration.GetConnectionString("MyCon")));
 // Add services to the container.
